@@ -1,0 +1,173 @@
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\MVC-F83345.dll.config
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\MVC-F83345.dll
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\MVC-F83345.pdb
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\csc.exe
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\csc.exe.config
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\csc.rsp
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\csi.exe
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\csi.exe.config
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\csi.rsp
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\System.AppContext.dll
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\System.Collections.Immutable.dll
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\System.Console.dll
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\System.IO.Compression.dll
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\System.IO.FileSystem.dll
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\System.IO.Pipes.dll
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\System.Reflection.Metadata.dll
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\System.Security.AccessControl.dll
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\System.Security.Claims.dll
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\System.ValueTuple.dll
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\System.Xml.XPath.dll
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\vbc.exe
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\vbc.exe.config
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\vbc.rsp
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\VBCSCompiler.exe
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\roslyn\VBCSCompiler.exe.config
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\EntityFramework.dll
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\EntityFramework.SqlServer.dll
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\Microsoft.Web.Infrastructure.dll
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\System.Web.Helpers.dll
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\System.Web.Mvc.dll
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\System.Web.Razor.dll
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\System.Web.Webpages.Deployment.dll
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\System.Web.Webpages.dll
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\System.Web.Webpages.Razor.dll
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\EntityFramework.xml
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\EntityFramework.SqlServer.xml
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\System.Web.Razor.xml
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\System.Web.Webpages.xml
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\System.Web.Webpages.Deployment.xml
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\System.Web.Webpages.Razor.xml
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\System.Web.Helpers.xml
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\System.Web.Mvc.xml
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\obj\Debug\MVC-F83345.csprojAssemblyReference.cache
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\obj\Debug\MVC-F83345.csproj.CoreCompileInputs.cache
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\obj\Debug\MVC-F83345.csproj.CopyComplete
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\obj\Debug\MVC-F83345.dll
+D:\Programs and Games\VS\Projects\MVC-F83345\MVC-F83345\obj\Debug\MVC-F83345.pdb
+C:\Users\hotshot eva\Desktop\MVC-F83345\MVC-F83345\obj\Debug\MVC-F83345.dll
+C:\Users\hotshot eva\Desktop\MVC-F83345\MVC-F83345\obj\Debug\MVC-F83345.pdb
+C:\Users\hotshot eva\Desktop\MVC-F83345\MVC-F83345\bin\MVC-F83345.dll.config
+C:\Users\hotshot eva\Desktop\MVC-F83345\MVC-F83345\bin\MVC-F83345.dll
+C:\Users\hotshot eva\Desktop\MVC-F83345\MVC-F83345\bin\MVC-F83345.pdb
+C:\Users\hotshot eva\Desktop\MVC-F83345\MVC-F83345\bin\EntityFramework.dll
+C:\Users\hotshot eva\Desktop\MVC-F83345\MVC-F83345\bin\EntityFramework.SqlServer.dll
+C:\Users\hotshot eva\Desktop\MVC-F83345\MVC-F83345\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hotshot eva\Desktop\MVC-F83345\MVC-F83345\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hotshot eva\Desktop\MVC-F83345\MVC-F83345\bin\System.Web.Helpers.dll
+C:\Users\hotshot eva\Desktop\MVC-F83345\MVC-F83345\bin\System.Web.Mvc.dll
+C:\Users\hotshot eva\Desktop\MVC-F83345\MVC-F83345\bin\System.Web.Razor.dll
+C:\Users\hotshot eva\Desktop\MVC-F83345\MVC-F83345\bin\System.Web.Webpages.Deployment.dll
+C:\Users\hotshot eva\Desktop\MVC-F83345\MVC-F83345\bin\System.Web.Webpages.dll
+C:\Users\hotshot eva\Desktop\MVC-F83345\MVC-F83345\bin\System.Web.Webpages.Razor.dll
+C:\Users\hotshot eva\Desktop\MVC-F83345\MVC-F83345\bin\EntityFramework.xml
+C:\Users\hotshot eva\Desktop\MVC-F83345\MVC-F83345\bin\EntityFramework.SqlServer.xml
+C:\Users\hotshot eva\Desktop\MVC-F83345\MVC-F83345\bin\System.Web.Razor.xml
+C:\Users\hotshot eva\Desktop\MVC-F83345\MVC-F83345\bin\System.Web.Webpages.xml
+C:\Users\hotshot eva\Desktop\MVC-F83345\MVC-F83345\bin\System.Web.Webpages.Deployment.xml
+C:\Users\hotshot eva\Desktop\MVC-F83345\MVC-F83345\bin\System.Web.Webpages.Razor.xml
+C:\Users\hotshot eva\Desktop\MVC-F83345\MVC-F83345\bin\System.Web.Helpers.xml
+C:\Users\hotshot eva\Desktop\MVC-F83345\MVC-F83345\bin\System.Web.Mvc.xml
+C:\Users\hotshot eva\Desktop\MVC-F83345\MVC-F83345\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hotshot eva\Desktop\MVC-F83345\MVC-F83345\obj\Debug\MVC-F83345.csprojAssemblyReference.cache
+C:\Users\hotshot eva\Desktop\MVC-F83345\MVC-F83345\obj\Debug\MVC-F83345.csproj.CoreCompileInputs.cache
+C:\Users\hotshot eva\Desktop\MVC-F83345\MVC-F83345\obj\Debug\MVC-F83345.csproj.CopyComplete
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\MVC-F83345.dll.config
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\MVC-F83345.dll
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\MVC-F83345.pdb
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\csc.exe
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\csc.exe.config
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\csc.rsp
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\csi.exe
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\csi.exe.config
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\csi.rsp
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\System.AppContext.dll
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\System.Console.dll
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\System.IO.Compression.dll
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\System.IO.Pipes.dll
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\System.Security.Claims.dll
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\System.ValueTuple.dll
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\vbc.exe
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\vbc.exe.config
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\vbc.rsp
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\VBCSCompiler.exe
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\EntityFramework.dll
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\EntityFramework.SqlServer.dll
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\System.Web.Helpers.dll
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\System.Web.Mvc.dll
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\System.Web.Razor.dll
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\System.Web.Webpages.Deployment.dll
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\System.Web.Webpages.dll
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\System.Web.Webpages.Razor.dll
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\EntityFramework.xml
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\EntityFramework.SqlServer.xml
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\System.Web.Razor.xml
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\System.Web.Webpages.xml
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\System.Web.Webpages.Deployment.xml
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\System.Web.Webpages.Razor.xml
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\System.Web.Helpers.xml
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\System.Web.Mvc.xml
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\obj\Debug\MVC-F83345.csproj.AssemblyReference.cache
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\obj\Debug\MVC-F83345.csproj.CoreCompileInputs.cache
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\obj\Debug\MVC-F83345.csproj.CopyComplete
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\obj\Debug\MVC-F83345.dll
+C:\Users\hotshot eva\Desktop\Томов\MVC-F83345\MVC-F83345\obj\Debug\MVC-F83345.pdb

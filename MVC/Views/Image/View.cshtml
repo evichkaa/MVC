@@ -1,0 +1,31 @@
+﻿<link href="~/Content/My.css" rel="stylesheet" type="text/css" />
+@model MVC_F83345.Models.Image
+
+@{
+    ViewBag.Title = "View";
+}
+
+<h2>Uploaded Image</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayName("Image Name: ")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ImgName)
+        </dd>
+
+        <dd>
+            <img src="@Url.Content(Model.ImgPath)" width="700" height="500" />
+        </dd>
+    </dl>
+</div>
+
+<p>
+    @Html.ActionLink("Back", "ViewList", "Image") |
+    @Html.ActionLink("Download", "DownloadImg", "Image", new { p = Model.ImgPath }, null) |
+    @Html.ActionLink("Delete", "DeleteImg", "Image", new { p = Model.ImgPath }, null)
+</p>

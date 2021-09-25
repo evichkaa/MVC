@@ -1,0 +1,20 @@
+﻿<link href="~/Content/My.css" rel="stylesheet" type="text/css" />
+@{
+    ViewBag.Title = "VerAccount";
+}
+
+<h2>Verify Account</h2>
+
+@if (ViewBag.Status != null && Convert.ToBoolean(ViewBag.Status))
+{
+    <div class="alert alert-success">
+        <strong>Success!</strong> Your account has been activated! Enjoy uploading your favourite moments for free!
+        Click here to @Html.ActionLink("Login", "Login", "User")
+    </div>
+}
+else
+{
+    <div class="alert alert-danger">
+        <strong>An Error occured!</strong> @ViewBag.Message
+    </div>
+}
